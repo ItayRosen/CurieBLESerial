@@ -1,2 +1,2 @@
 # CurieBLESerial
-Simple script for serial string communication over CurieBLE
+Simple script for a terminal communication with CuriBLE library
