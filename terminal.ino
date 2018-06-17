@@ -1,6 +1,5 @@
 /*
- * Copyright (c) 2016 Intel Corporation.  All rights reserved.
- * See the bottom of this file for the license terms.
+ * This is a simple script that utilizes Intel's CurieBLE library for a basic BLE terminal
  */
 
 #include <CurieBLE.h>
